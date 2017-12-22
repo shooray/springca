@@ -1,2 +1,3 @@
 # springca
-PKI（公共密钥基础设施） Certificate Authority（证书颁发机构） software（软件）。
+基于 Spring Framework 的 PKI/CA 系统软件
+支持RSA、SM2等算法
